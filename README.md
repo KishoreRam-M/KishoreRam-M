@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kishore Ram M</h1>
-<img src="URL_OF_YOUR_IMAGE" alt="Kishore Ram M" align="center" width="200" height="200"/>
+
 
 <h3 align="center">A passionate CSE student focused on Java backend development and building real-time applications!</h3>
 
@@ -57,7 +57,7 @@ Here are the languages and tools I am actively working with:
 
 - **Programming Languages**:  
   - **Java** (Backend Development)  
-  - **Python**  
+  - **Python**   
   - **C**  
 
 - **Web Technologies**:  
