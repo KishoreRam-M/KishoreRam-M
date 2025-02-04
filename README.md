@@ -1,9 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm Kishore Ram M</h1>
 
-
-<h3 align="center">A passionate CSE student focused on Java backend development and building real-time applications!</h3>
+<h3 align="center">A passionate on  Open Source !</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishoreram-m&label=Profile%20views&color=0e75b6&style=flat" alt="kishoreram-m" />
@@ -19,19 +16,20 @@
 
 ### 🚀 **About Me**
 
-Hello! I'm **Kishore Ram M**, an enthusiastic **Computer Science Engineering student** with a strong focus on **Java backend development** and **real-time application development**. I'm passionate about solving problems through code and contributing to open-source projects. Currently, I am building a robust skill set in **Data Structures and Algorithms (DSA)** and gaining hands-on experience in **full-stack development**.
+Hello! I'm **Kishore Ram M**, an enthusiastic **Computer Science Engineering student** with a strong focus on **Java backend development, real-time application development, and Flutter app development**. I'm passionate about solving problems through code, contributing to open-source projects, and building dynamic solutions.
 
-- **Current Learning**: 📚 Focused on mastering **DSA concepts** and their applications in **real-time projects**. I’m tackling complex problems, enhancing my problem-solving abilities, and applying these concepts to solve practical challenges.
-- **Goals**: Looking for an **internship** to apply my skills in **Java backend development**, work on **real-time applications**, and further explore **full-stack development**.
+- **Current Learning**: 📚 Exploring **Dart & Flutter** to build **cross-platform mobile applications** while also strengthening my **DSA** knowledge.  
+- **Goals**: Looking for an **internship** to apply my skills in **Java backend development** and **Flutter app development**, work on **real-time applications**, and gain hands-on experience in **full-stack development**.
 - **My journey**: You can follow my progress and solutions to DSA problems on **[Geeks for Geeks](https://www.geeksforgeeks.org/user/kishorera8zln/)**.
   
 ---
 
 ### 🌱 **What I'm Working On**
 
-- **Solving DSA problems**: I've solved over **130+ problems** and continuously work on improving my understanding of algorithms and data structures. Solving real-world problems using **DSA** is an area I’m excited about.
-- **Real-Time Projects**: I’m developing **dynamic systems** and **real-time applications** using **Java**, with a focus on building efficient and scalable solutions. I’m also exploring **Spring Boot** for backend development and **JavaFX** for building intuitive UIs.
-- **Open Source**: Contributing to open-source projects is something I’m eager to dive deeper into. I believe in the power of collaboration to create impactful solutions.
+- **Flutter App Development**: Learning **Dart & Flutter** to build fast, beautiful, and cross-platform mobile applications.  
+- **Solving DSA problems**: I've solved over **130+ problems** and continuously work on improving my understanding of algorithms and data structures.  
+- **Real-Time Projects**: Developing **dynamic systems** and **real-time applications** using **Java** while exploring **Spring Boot** for backend development.  
+- **Open Source**: Excited about contributing to open-source projects and collaborating with the developer community.
 
 ---
 
@@ -47,7 +45,7 @@ Let’s stay in touch! Feel free to reach out if you'd like to collaborate on pr
 
 ### 💬 **Fun Fact**
 
-I’ve tackled over **130+ DSA problems** 💪, and this is just the beginning! 🚀 I’m on a mission to solve **complex problems** and turn them into **real-world solutions** using **Java**. I love learning new concepts and technologies, and I’m passionate about applying them to solve practical challenges in **real-time applications**. I'm always striving to improve and keep up with the latest in tech.
+I’ve tackled over **130+ DSA problems** 💪, and this is just the beginning! 🚀 I’m on a mission to solve **complex problems**, build **real-time applications**, and develop **cross-platform mobile apps** using **Flutter**. I love learning new technologies and applying them to real-world solutions.
 
 ---
 
@@ -57,8 +55,12 @@ Here are the languages and tools I am actively working with:
 
 - **Programming Languages**:  
   - **Java** (Backend Development)  
+  - **Dart** (Flutter App Development)  
   - **Python**   
   - **C**  
+
+- **Mobile App Development**:  
+  - **Flutter** (Cross-platform App Development)
 
 - **Web Technologies**:  
   - **HTML5** (Basic Web Design)  
@@ -72,7 +74,8 @@ Here are the languages and tools I am actively working with:
 - **Development Tools & Platforms**:  
   - **Linux** (Operating System)  
   - **Spring Boot** (Framework for Backend Development)  
-  - **JavaFX** (For building UI in Java-based applications)
+  - **JavaFX** (For building UI in Java-based applications)  
+  - **Android Studio** (For Flutter Development)
 
 ---
 
@@ -86,4 +89,3 @@ Here are the languages and tools I am actively working with:
 
 - **GitHub Streak**:  
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishoreram-m&)
-
