@@ -55,11 +55,13 @@
 **🎯 Current Focus:** Enterprise Architecture | AI/ML Integration | Microservices  
 **💫 Philosophy:** Code with Purpose, Architect with Vision  
 
-**Daily Life Journey:**
-- **Morning:** ☕ Coffee + Algorithm Problems
-- **Work Time:** 🚀 Building scalable solutions  
-- **Evening:** 📚 Learning cutting-edge tech
-- **Night:** 💡 Contributing to open source
+## 🎯 My Professional Focus Areas
+
+- **Problem Solving:** 🧠 Continuously tackling complex algorithms and system design challenges to sharpen critical thinking.
+- **Engineering Excellence:** ⚙️ Developing clean, efficient, and scalable code that meets business needs and industry standards.
+- **Continuous Learning:** 📘 Exploring emerging technologies, frameworks, and methodologies to stay at the forefront of innovation.
+- **Collaboration & Contribution:** 🤝 Actively participating in code reviews, knowledge sharing, and contributing to open source projects.
+
 
 **Key Achievements:**
 - **🧠 Problems Solved:** 150+
