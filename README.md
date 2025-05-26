@@ -58,20 +58,17 @@
 
 **Key Achievements:**
 - **🧠 Problems Solved:** 150+
-- **⚡ System Uptime:** 99.99%
-- **🏅 Performance Rank:** Top 1%
-- **👥 Concurrent Users:** 10,000+
+- **🏅 Production Grade Projects:** 5+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
 
-## 🚀 **Current Epic Projects**
+##  Currently Working on Epic Projects 
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%">
         <div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1e3a8a 100%); padding: 20px; border-radius: 15px;">
-          <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="200"/>
           <h3 style="color: #3b82f6;">🛒 Enterprise E-Commerce Platform</h3>
           <p style="color: #cbd5e1;"><strong>Next-gen microservices architecture</strong> handling 10K+ concurrent users with Spring Boot & React</p>
           <img src="https://skillicons.dev/icons?i=spring,react,postgresql,redis&theme=dark" />
