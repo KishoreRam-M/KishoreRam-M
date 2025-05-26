@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3b82f6&background=0a0e27&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Elite+Software+Architect+%26+AI+Innovator;Full-Stack+Engineering+Virtuoso;Top+1%25+Developer+%7C+150%2B+Problems+Solved"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3b82f6&background=0a0e27&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Elite+Software+Architect+%26+AI+Innovator;Full-Stack+Engineering+Virtuoso;"
     alt="Typing SVG showing Elite Software Architect & AI Innovator; Full-Stack Engineering Virtuoso"
   />
 </div>
