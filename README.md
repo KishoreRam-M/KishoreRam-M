@@ -1,4 +1,4 @@
-# <div align="center">💻 Kishore Ram M - Elite Software Architect 🚀</div>
+# <div align="center">💻 Kishore Ram M - ZenCoder 🚀</div>
 
 <div align="center">
   <img
@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🎯 **About Me - The Code Architect**
+## 🎯 **About Me – THE ZEN CODER**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="300" />
@@ -50,8 +50,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" height="300" />
 </div>
 
-**🏆 Elite Software Architect & AI Innovation Pioneer**  
-**📍 Location:** India 🇮🇳  
+**🏆 Zen Coder**  
+**📍 Location:** Tenkasi ,Tamilnadu,India
 **🎯 Current Focus:** Enterprise Architecture | AI/ML Integration | Microservices  
 **💫 Philosophy:** Code with Purpose, Architect with Vision  
 
@@ -76,17 +76,17 @@
     <tr>
       <td width="50%">
         <div align="center" style="background: linear-gradient(135deg, #0a0e27 0%, #1e3a8a 100%); padding: 20px; border-radius: 15px;">
-          <h3 style="color: #3b82f6;">🛒 Enterprise E-Commerce Platform</h3>
-          <p style="color: #cbd5e1;"><strong>Next-gen microservices architecture</strong> handling 10K+ concurrent users with Spring Boot & React</p>
+          <h3 style="color: #3b82f6;">🛒 Enterprise E-Commerce App</h3>
+          <p style="color: #cbd5e1;"><strong>High-performance Spring Boot & React based platform</strong> with advanced caching (Redis & Ehcache) and secure payment integration</p>
           <img src="https://skillicons.dev/icons?i=spring,react,postgresql,redis&theme=dark" />
         </div>
       </td>
       <td width="50%">
         <div align="center" style="background: linear-gradient(135deg, #1e3a8a 0%, #8b5cf6 100%); padding: 20px; border-radius: 15px;">
           <img src="https://user-images.githubusercontent.com/74038190/238200618-67c5b5f4-24de-41fb-ac97-02ef3b4e9b84.gif" width="200"/>
-          <h3 style="color: #fbbf24;">🤖 AI-Powered Project Management</h3>
-          <p style="color: #cbd5e1;"><strong>Intelligent orchestration</strong> with ML-driven optimization and predictive analytics</p>
-          <img src="https://skillicons.dev/icons?i=spring,react,mongodb,python&theme=dark" />
+          <h3 style="color: #fbbf24;">🧘 Zen Mind</h3>
+          <p style="color: #cbd5e1;"><strong>AI-powered mental well-being guide</strong> built with Spring AI, Hibernate, and real-time mood tracking</p>
+          <img src="https://skillicons.dev/icons?i=spring,react,python,redis&theme=dark" />
         </div>
       </td>
     </tr>
@@ -94,22 +94,39 @@
       <td width="50%">
         <div align="center" style="background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%); padding: 20px; border-radius: 15px;">
           <img src="https://user-images.githubusercontent.com/74038190/238200616-1dc7f8f2-2b5e-4c64-9432-9de3de5c9c4e.gif" width="200"/>
-          <h3 style="color: #fbbf24;">✍️ Professional Blog Platform</h3>
-          <p style="color: #cbd5e1;"><strong>Content management system</strong> with advanced SEO and real-time collaboration</p>
-          <img src="https://skillicons.dev/icons?i=nextjs,spring,postgresql,elasticsearch&theme=dark" />
+          <h3 style="color: #fbbf24;">📋 ZenFlow</h3>
+          <p style="color: #cbd5e1;"><strong>Smart project management tool</strong> with task automation, AI recommendations, and real-time collaboration</p>
+          <img src="https://skillicons.dev/icons?i=react,spring,postgresql,redis&theme=dark" />
         </div>
       </td>
       <td width="50%">
         <div align="center" style="background: linear-gradient(135deg, #ec4899 0%, #ff6b35 100%); padding: 20px; border-radius: 15px;">
           <img src="https://user-images.githubusercontent.com/74038190/238200614-67d3c4e6-f4d9-45b1-a8dc-37b1c54ed1e7.gif" width="200"/>
-          <h3 style="color: #fbbf24;">🍔 Smart Food Delivery System</h3>
-          <p style="color: #cbd5e1;"><strong>Real-time delivery platform</strong> with intelligent routing and location tracking</p>
-          <img src="https://skillicons.dev/icons?i=spring,react,redis,gcp&theme=dark" />
+          <h3 style="color: #fbbf24;">🔗 Hyper Zen</h3>
+          <p style="color: #cbd5e1;"><strong>Lightning-fast link shortener</strong> with analytics, caching, and QR code generation</p>
+          <img src="https://skillicons.dev/icons?i=spring,react,redis,postgresql&theme=dark" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center" style="background: linear-gradient(135deg, #fbbf24 0%, #ec4899 100%); padding: 20px; border-radius: 15px;">
+          <h3 style="color: #0a0e27;">📝 Zenfolio</h3>
+          <p style="color: #cbd5e1;"><strong>Professional blog platform</strong> with rich text editor, SEO optimization, and fast search</p>
+          <img src="https://skillicons.dev/icons?i=nextjs,spring,postgresql,elasticsearch&theme=dark" />
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center" style="background: linear-gradient(135deg, #1e3a8a 0%, #ec4899 100%); padding: 20px; border-radius: 15px;">
+          <h3 style="color: #fbbf24;">🛡️ Zen Aura</h3>
+          <p style="color: #cbd5e1;"><strong>Cyberbullying detection app</strong> using AI text analysis and real-time alerts</p>
+          <img src="https://skillicons.dev/icons?i=spring,react,python,redis&theme=dark" />
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9d35-51e2e96d2668.gif" width="900">
 
@@ -120,19 +137,16 @@
 </div>
 
 **Languages:**
-- **Java (17-21)** ☕ *Expert Level: 95%*
-- **JavaScript/TypeScript** 🚀 *Advanced: 90%*
-- 
+- **Java (17-21)**
+- **JavaScript** 
+  
 **Frameworks:**
-- **Spring Boot 3.x** 🍃 *Master Level: 95%*
-- **Spring Security** 🔐 *Advanced: 90%*
-- **Spring Data JPA** 📊 *Expert: 92%*
-- **Node.js/Express** 🟢 *Proficient: 85%*
+- **Spring Boot 3.x**
+- **Spring Security** 
+- **Spring Data JPA**
+- **Spring Ai**
+-  **React**
 
-**Architecture:**
-- **Microservices** 🏗️ *Expert: 94%*
-- **Event-Driven Architecture** 📡 *Advanced: 88%*
-- **Clean Architecture** 🎯 *Expert: 90%*
 
 ### 🎨 **Frontend Innovation**
 
@@ -141,38 +155,27 @@
 </div>
 
 **Core Technologies:**
-- **React.js** ⚛️ *Expert: 92%*
-- **Next.js** 🔄 *Advanced: 88%*
-
+- **React.js** 
 **State Management:**
-- **Redux Toolkit** 🔄 *Expert: 90%*
-- **Context API** 🌐 *Advanced: 85%*
+- **Redux Toolkit** 
+- **Context API** 
 
 **Styling:**
-- **Tailwind CSS** 🎨 *Expert: 95%*
-- **Material-UI** 📱 *Advanced: 88%*
-- **Styled Components** 💅 *Proficient: 82%*
-- **Shadcn-UI** 📱 *Advanced: 86%*
+- **Tailwind CSS** 
+- **Material-UI**
 
-### ☁️ **DevOps & Cloud**
+### ☁️ **Cloud**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" height="200" />
 </div>
 
 **Containerization:**
-- **Docker** 🐳 *Expert: 92%*
-- **Kubernetes** ⚓ *Advanced: 85%*
+- **Docker** 
+- **Kubernetes** 
 
 **Cloud Platforms:**
-- **AWS** ☁️ *Advanced: 88%*
-- **Azure** 🔵 *Proficient: 80%*
-- **GCP** 🌐 *Growing: 75%*
-
-**CI/CD:**
-- **Jenkins** 🔧 *Advanced: 85%*
-- **GitHub Actions** 🚀 *Expert: 90%*
-- **GitLab CI/CD** 🦊 *Proficient: 82%*
+- **AWS** 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,nextjs,nodejs,python,docker,kubernetes,aws,postgresql,mongodb,redis,git,jenkins&perline=8&theme=dark" />
@@ -213,24 +216,7 @@
         <br><span style="color: #ec4899;">150+ Problems Solved</span>
         <br><sub style="color: #cbd5e1;">Top percentile performer</sub>
       </td>
-      <td align="center" width="25%" style="background: linear-gradient(135deg, #1e3a8a 0%, #8b5cf6 50%, #ec4899 100%); padding: 20px; border-radius: 15px;">
-        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/>
-        <br><strong style="color: #fbbf24;">🏗️ Architecture Expert</strong>
-        <br><span style="color: #3b82f6;">10K+ Concurrent Users</span>
-        <br><sub style="color: #cbd5e1;">99.99% Uptime Achieved</sub>
-      </td>
-      <td align="center" width="25%" style="background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 50%, #ff6b35 100%); padding: 20px; border-radius: 15px;">
-        <img src="https://user-images.githubusercontent.com/74038190/235294009-55e5e5c5-8ed5-47ce-9df1-96400f0d82fa.gif" width="100"/>
-        <br><strong style="color: #fbbf24;">🚀 Performance Pro</strong>
-        <br><span style="color: #3b82f6;">70% Speed Increase</span>
-        <br><sub style="color: #cbd5e1;">40% Response Time Reduction</sub>
-      </td>
-      <td align="center" width="25%" style="background: linear-gradient(135deg, #ec4899 0%, #ff6b35 50%, #fbbf24 100%); padding: 20px; border-radius: 15px;">
-        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"/>
-        <br><strong style="color: #0a0e27;">🤖 AI Pioneer</strong>
-        <br><span style="color: #1e3a8a;">95%+ Accuracy</span>
-        <br><sub style="color: #0a0e27;">ML Integration Specialist</sub>
-      </td>
+      
     </tr>
   </table>
 </div>
@@ -249,7 +235,7 @@
 
 **💫 My Development Approach:**
 - **🎯 Name:** Kishore Ram M
-- **🏆 Role:** Elite Software Architect  
+- **🏆 Role:** ZenCoder 
 - **🧠 Mindset:** Growth-oriented problem solver
 - **🚀 Mission:** Transform ideas into scalable reality
 
@@ -267,11 +253,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300"/>
 </div>
 
-- 🧠 **Advanced AI/ML Integration** - Exploring GPT-4, LangChain, and vector databases
-- ⚡ **WebAssembly (WASM)** - High-performance web applications
-- 🌐 **Web3 Technologies** - Blockchain integration and smart contracts  
-- ☁️ **Cloud-Native Patterns** - Advanced Kubernetes and service mesh
-- 🔒 **Cybersecurity** - DevSecOps and security-first architecture
 
 <img src="https://user-images.githubusercontent.com/74038190/212284153-76d8e098-fa55-4aca-9b4d-2f94b7782e5e.gif" width="900">
 
