@@ -58,8 +58,7 @@ const kishoreram = {
 
 ### 🏆 **Key Achievements**
 - 🧠 **150+ Problems Solved** on competitive platforms
-- 🏅 **5+ Production Grade Projects** deployed
-- 📈 **Performance Expert** with caching optimization
+- 🏅 *2*+ Production Grade Projects** created  
 - 🔧 **Clean Code Advocate** with industry standards
 
 </td>
@@ -85,7 +84,7 @@ const kishoreram = {
 
 ---
 
-## 🚀 **Epic Projects Portfolio** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+## 🚀 **On Going Projects** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 
 <div align="center">
 
